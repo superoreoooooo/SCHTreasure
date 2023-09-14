@@ -1,0 +1,4 @@
+name: SCHTreasure
+version: '${project.version}'
+main: win.oreo.schtreasure.SCHTreasure
+api-version: '1.20'
